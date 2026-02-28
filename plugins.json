@@ -1,13 +1,9 @@
 [
   {
-    "name": "La.Movie (rheno911)",
-    "internalName": "rheno911_la_movie",
+    "name": "La.Movie",
+    "internalName": "lamovie",
     "url": "https://raw.githubusercontent.com/rheno911/skystream-plugins/main/plugin.js",
-    "icon": "https://cdn-icons-png.flaticon.com/512/160/160335.png",
     "version": 1,
-    "description": "La.Movie provider via vimeos.net, by rheno911",
-    "authors": ["rheno911"],
-    "language": "es",
-    "types": ["Movies", "TV"]
+    "description": "La.Movie by rheno911"
   }
 ]
