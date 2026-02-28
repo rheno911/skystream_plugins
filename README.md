@@ -1,0 +1,2 @@
+# skystream_plugins
+multiprovider
