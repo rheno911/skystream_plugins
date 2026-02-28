@@ -1,8 +1,5 @@
 {
-  "name": "rheno911 SkyStream Repo",
-  "id": "com.rheno911.skystream",
-  "description": "Personal SkyStream JS plugins by rheno911",
-  "manifestVersion": 1,
+  "name": "rheno911 Repo",
   "pluginLists": [
     "https://raw.githubusercontent.com/rheno911/skystream-plugins/main/plugins.json"
   ]
