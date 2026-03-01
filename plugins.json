@@ -1,9 +1,13 @@
 [
   {
-    "name": "La.Movie",
-    "internalName": "lamovie",
-    "url": "https://raw.githubusercontent.com/rheno911/skystream-plugins/main/plugin.js",
-    "version": 1,
-    "description": "La.Movie by rheno911"
+    "name": "LaMovie",
+    "internalName": "LaMovie",
+    "url": "https://raw.githubusercontent.com/rheno911/skystream-lamovie/main/LaMovie.sky",
+    "icon": "https://via.placeholder.com/128?text=LM",
+    "version": 8,
+    "description": "LaMovie HD Streams",
+    "authors": ["rheno911"],
+    "language": "es",
+    "types": ["Movies"]
   }
 ]
