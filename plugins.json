@@ -3,7 +3,7 @@
     "name": "LaMovie",
     "internalName": "LaMovie",
     "url": "https://raw.githubusercontent.com/rheno911/skystream-lamovie/main/LaMovie.sky",
-    "icon": "https://via.placeholder.com/128?text=LM",
+    "icon": "https://via.placeholder.com/128?text=LM", 
     "version": 8,
     "description": "LaMovie HD Streams",
     "authors": ["rheno911"],
